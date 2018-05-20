@@ -1,0 +1,13 @@
+.CaptionBox {
+    display: block;
+    border-radius: 25px; 
+    border-style: none;
+    background-color: #E15A97;
+    width: auto;
+    padding: 1rem;
+    font-size: 1rem;
+    margin: 1rem;
+    max-width: 20vw;
+
+    font-family: 'Roboto Mono';
+}

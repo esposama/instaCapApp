@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Logo {
+  width: 15vw;
+  height: auto;
+  position: absolute;
+
+  right: 0;
+  bottom: 0;
+
+  margin-right: 5vw;
+  margin-bottom: 13vh;
+}

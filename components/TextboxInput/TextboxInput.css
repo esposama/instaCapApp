@@ -1,0 +1,32 @@
+.TextBox {
+    display: block;
+    border-radius: 25px; 
+    border-style: none;
+    background-color: #C3DAC3;
+    width: 20vw;
+    padding: 1rem;
+    font-size: 1rem;
+    margin: 1rem;
+
+    font-family: 'Roboto Mono';
+}
+
+.SubmitButton {
+    margin-left: 1rem;
+    display: block;
+    border-radius: 0.8rem; 
+    border-style: none;
+    background-color: #C3DAC3;
+    width: 5vw;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    font-size: 1rem;
+
+    font-family: 'Roboto Mono';
+}
+
+h1 {
+    font-weight: normal;
+    color: #F4FEC1;
+    margin: 1rem;
+}

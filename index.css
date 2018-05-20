@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto Mono';
+
+  background: url(caption-this.svg);
+  background-size: 100vw 100vh;
+  background-repeat: no-repeat;
+
+  background-color: #704C5E;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  src: local('Roboto Mono'), url(./Roboto_Mono/RobotoMono-Medium.ttf) format('truetype');
+}
